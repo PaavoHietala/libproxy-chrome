@@ -1,6 +1,6 @@
 # libproxy-chrome
 
-A simple chrome extension to change the current tab's url to an Aalto LibProxy equivalent. Using LibProxy unlocks the content through Aalto, assuming you have valid credentials.
+A simple chrome extension to change the current tab's url to an Aalto University or University of Helsinki LibProxy equivalent. Using LibProxy unlocks the content through your university, assuming you have valid credentials.
 
 For example:
 
@@ -21,6 +21,6 @@ turns into
 
 1. Navigate to the article you want to read
 2. Click on the blue LP icon in your extensions toolbar
-3. Click "LibProxy this!"
-4. Input your Aalto credentials if you haven't already logged in
+3. Click "Aalto LibProxy!" or "Helsinki LibProxy!"
+4. Input your university credentials if you haven't already logged in
 5. In the unlikely case of a 404 or other error you can return with the "Go back..." button
